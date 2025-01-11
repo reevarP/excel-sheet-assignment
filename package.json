@@ -2,7 +2,7 @@
     "name": "excel-sheet-assignment",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/reevarP/excel-sheet-assignment",
+    "homepage": "https://reevarP.github.io/excel-sheet-assignment",
     "dependencies": {
         "cra-template": "1.2.0",
         "react": "^19.0.0",
