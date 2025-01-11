@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reevarP/excel-sheet-assignment/static/css/main.1831ea64.css",
+    "main.js": "/reevarP/excel-sheet-assignment/static/js/main.a90f2dc1.js",
+    "static/js/488.c945ba52.chunk.js": "/reevarP/excel-sheet-assignment/static/js/488.c945ba52.chunk.js",
+    "index.html": "/reevarP/excel-sheet-assignment/index.html",
+    "main.1831ea64.css.map": "/reevarP/excel-sheet-assignment/static/css/main.1831ea64.css.map",
+    "main.a90f2dc1.js.map": "/reevarP/excel-sheet-assignment/static/js/main.a90f2dc1.js.map",
+    "488.c945ba52.chunk.js.map": "/reevarP/excel-sheet-assignment/static/js/488.c945ba52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1831ea64.css",
+    "static/js/main.a90f2dc1.js"
+  ]
+}
