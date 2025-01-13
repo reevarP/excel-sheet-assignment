@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/excel-sheet-assignment/static/css/main.1831ea64.css",
-    "main.js": "/excel-sheet-assignment/static/js/main.55326f05.js",
+    "main.css": "/excel-sheet-assignment/static/css/main.1308fe1e.css",
+    "main.js": "/excel-sheet-assignment/static/js/main.90d88a4c.js",
     "static/js/488.c945ba52.chunk.js": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js",
     "index.html": "/excel-sheet-assignment/index.html",
-    "main.1831ea64.css.map": "/excel-sheet-assignment/static/css/main.1831ea64.css.map",
-    "main.55326f05.js.map": "/excel-sheet-assignment/static/js/main.55326f05.js.map",
+    "main.1308fe1e.css.map": "/excel-sheet-assignment/static/css/main.1308fe1e.css.map",
+    "main.90d88a4c.js.map": "/excel-sheet-assignment/static/js/main.90d88a4c.js.map",
     "488.c945ba52.chunk.js.map": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1831ea64.css",
-    "static/js/main.55326f05.js"
+    "static/css/main.1308fe1e.css",
+    "static/js/main.90d88a4c.js"
   ]
 }
