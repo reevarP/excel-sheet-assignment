@@ -65,6 +65,31 @@ const MainComponent = () => {
                 });
             }
 
+            let userReportingObj = {};
+            excelData.forEach((curElem) => {
+                if (curElem.email && curElem.reportsTo) {
+                    userReportingObj[curElem.email] = curElem.reportsTo;
+                }
+            });
+            const checkIfCycleExists = (email) => {
+                const checkedTemp = [];
+                let emailTemp = email;
+                while (emailTemp) {
+                    if (checkedTemp.includes(emailTemp)) {
+                        return true;
+                    }
+                    checkedTemp.push(emailTemp);
+                    emailTemp = userReportingObj[emailTemp];
+                }
+                return false;
+            };
+
+            excelData.forEach((curElem) => {
+                if (checkIfCycleExists(curElem.email)) {
+                    setErrorArray((prev) => [...prev, `Found a cycle with the user ${curElem.fullName} with email ${curElem.email}`]);
+                }
+            });
+
             if (rootUser.length === 1) {
                 excelData.forEach((curElem) => {
                     const reportingToUser = excelData.filter((cur) => {
