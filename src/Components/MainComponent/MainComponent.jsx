@@ -10,7 +10,6 @@ const MainComponent = () => {
 
     const [excelData, setExcelData] = useState([]);
     const [errorArray, setErrorArray] = useState([]);
-    console.log(excelData);
 
     const readExcelFile = (file) => {
         const reader = new FileReader();
@@ -20,13 +19,17 @@ const MainComponent = () => {
 
             // Process the data (assuming CSV format here)
             const rows = data.split("\n");
-            const parsedData = rows.map((row) => row.split(","));
+            const parsedData = rows
+                .map((row) => row.split(","))
+                .filter((row) => {
+                    return row[0] !== "";
+                });
             const newArray = parsedData.map((curElem, index) => {
                 return {
                     email: curElem[0],
                     fullName: curElem[1],
                     role: curElem[2],
-                    reportsTo: curElem[3].replace("\r", ""),
+                    reportsTo: curElem[3] ? curElem[3].replace("\r", "") : "",
                 };
             });
             setExcelData(newArray.slice(1));
@@ -42,7 +45,6 @@ const MainComponent = () => {
         }
     };
 
-    console.log(errorArray);
     useEffect(() => {
         if (excelData.length > 0) {
             //looping to confirm there is only one root
