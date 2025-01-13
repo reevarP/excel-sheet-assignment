@@ -127,6 +127,11 @@ const MainComponent = () => {
                             </div>
                         </div>
                     )}
+                    {excelData.length > 0 && errorArray.length === 0 && (
+                        <div style={{ width: "80%", marginTop: "0.5rem" }}>
+                            <div className={styles.noErrors}>No errors found</div>
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
