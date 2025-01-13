@@ -1,0 +1,98 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #7f7;
+}
+
+.uploadButton {
+    border: 1px dashed #7f7;
+    background-color: #2b2f35;
+    color: #7f7;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 12px;
+    width: 12rem;
+    box-shadow: 4px 4px 10px #191c22, -4px -4px 10px #33393e;
+}
+
+.contentBox {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2b2f35;
+    border-radius: 6px;
+    box-shadow: 4px 4px 10px #191c22, -4px -4px 10px #33393e;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.container {
+    width: 100%;
+    height: calc(100% - 5rem);
+}
+
+.errorHead {
+    font-size: 14px;
+    font-weight: 500;
+    color: red;
+    width: 100%;
+    margin: 0.5rem 0;
+}
+.eachError {
+    width: 100%;
+    background-color: #ff000011;
+    padding: 0.5rem;
+    border-radius: 4px;
+    color: red;
+    font-size: 12px;
+    margin-bottom: 0.25rem;
+    font-weight: 500;
+}
+
+.noErrors {
+    width: 100%;
+    background-color: #00800011;
+    padding: 0.5rem;
+    border-radius: 4px;
+    color: green;
+    font-size: 12px;
+    margin-bottom: 0.25rem;
+    font-weight: 500;
+}
+
+.detailsBox {
+    width: 100%;
+    height: 100%;
+    background-color: #2b2f35;
+    border-radius: 6px;
+    box-shadow: 4px 4px 10px #191c22, -4px -4px 10px #33393e;
+    padding: 1rem;
+}
+.detailsHead {
+    font-size: 14px;
+    font-weight: 600;
+    color: #7f7;
+}
+.noData {
+    width: 100%;
+    height: calc(100% - 1rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #757d83;
+    font-size: 20px;
+    font-weight: 600;
+}
+.detailsContainer {
+    width: 100%;
+    height: calc(100% - 1rem);
+    color: #757d83;
+    font-size: 20px;
+    font-weight: 600;
+    overflow-y: auto;
+}

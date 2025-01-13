@@ -1,15 +1,34 @@
 {
   "files": {
-    "main.css": "/excel-sheet-assignment/static/css/main.1308fe1e.css",
-    "main.js": "/excel-sheet-assignment/static/js/main.0b7aff2c.js",
+    "main.css": "/excel-sheet-assignment/static/css/main.03bd496a.css",
+    "main.js": "/excel-sheet-assignment/static/js/main.d9d240f0.js",
     "static/js/488.c945ba52.chunk.js": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/excel-sheet-assignment/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/Kanit-ExtraBoldItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-ExtraBoldItalic.909a0d21241bdeb9e6de.ttf",
+    "static/media/Kanit-BlackItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-BlackItalic.a7c561ef3b2759658a59.ttf",
+    "static/media/Kanit-BoldItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-BoldItalic.927b59d31438cdaed223.ttf",
+    "static/media/Kanit-ExtraBold.ttf": "/excel-sheet-assignment/static/media/Kanit-ExtraBold.c4e2a525f567e676a819.ttf",
+    "static/media/Kanit-Black.ttf": "/excel-sheet-assignment/static/media/Kanit-Black.ff456266a65e712bce54.ttf",
+    "static/media/Kanit-Bold.ttf": "/excel-sheet-assignment/static/media/Kanit-Bold.46cd98a815b9874526ad.ttf",
+    "static/media/Kanit-MediumItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-MediumItalic.c4075ca55800c760916a.ttf",
+    "static/media/Kanit-SemiBoldItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-SemiBoldItalic.40e1311c74096729c357.ttf",
+    "static/media/Kanit-Italic.ttf": "/excel-sheet-assignment/static/media/Kanit-Italic.af5b1c62659b287d31b6.ttf",
+    "static/media/Kanit-LightItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-LightItalic.779790df6247540dd8fb.ttf",
+    "static/media/Kanit-SemiBold.ttf": "/excel-sheet-assignment/static/media/Kanit-SemiBold.cf86a473ecf932fb0053.ttf",
+    "static/media/Kanit-Medium.ttf": "/excel-sheet-assignment/static/media/Kanit-Medium.786fd6bb96ce0cf5c5b2.ttf",
+    "static/media/Kanit-Regular.ttf": "/excel-sheet-assignment/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
+    "static/media/Kanit-Light.ttf": "/excel-sheet-assignment/static/media/Kanit-Light.7b6b95563f4c5697d973.ttf",
+    "static/media/Kanit-ExtraLightItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-ExtraLightItalic.5a8d831dd0ca3841f254.ttf",
+    "static/media/Kanit-ThinItalic.ttf": "/excel-sheet-assignment/static/media/Kanit-ThinItalic.be401212d54bd3ca995e.ttf",
+    "static/media/Kanit-ExtraLight.ttf": "/excel-sheet-assignment/static/media/Kanit-ExtraLight.c30ae435f86553872b17.ttf",
+    "static/media/Kanit-Thin.ttf": "/excel-sheet-assignment/static/media/Kanit-Thin.2e32ea46402cf7c9bcb4.ttf",
     "index.html": "/excel-sheet-assignment/index.html",
-    "main.1308fe1e.css.map": "/excel-sheet-assignment/static/css/main.1308fe1e.css.map",
-    "main.0b7aff2c.js.map": "/excel-sheet-assignment/static/js/main.0b7aff2c.js.map",
+    "main.03bd496a.css.map": "/excel-sheet-assignment/static/css/main.03bd496a.css.map",
+    "main.d9d240f0.js.map": "/excel-sheet-assignment/static/js/main.d9d240f0.js.map",
     "488.c945ba52.chunk.js.map": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1308fe1e.css",
-    "static/js/main.0b7aff2c.js"
+    "static/css/main.03bd496a.css",
+    "static/js/main.d9d240f0.js"
   ]
 }
