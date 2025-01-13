@@ -39,7 +39,7 @@
 .errorHead {
     font-size: 14px;
     font-weight: 500;
-    color: red;
+    color: #ff7575;
     width: 100%;
     margin: 0.5rem 0;
 }
@@ -48,7 +48,7 @@
     background-color: #ff000011;
     padding: 0.5rem;
     border-radius: 4px;
-    color: red;
+    color: #ff7575;
     font-size: 12px;
     margin-bottom: 0.25rem;
     font-weight: 500;

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/excel-sheet-assignment/static/css/main.03bd496a.css",
+    "main.css": "/excel-sheet-assignment/static/css/main.a5fb869a.css",
     "main.js": "/excel-sheet-assignment/static/js/main.d9d240f0.js",
     "static/js/488.c945ba52.chunk.js": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js",
     "static/media/Inter-VariableFont_opsz,wght.ttf": "/excel-sheet-assignment/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
@@ -23,12 +23,12 @@
     "static/media/Kanit-ExtraLight.ttf": "/excel-sheet-assignment/static/media/Kanit-ExtraLight.c30ae435f86553872b17.ttf",
     "static/media/Kanit-Thin.ttf": "/excel-sheet-assignment/static/media/Kanit-Thin.2e32ea46402cf7c9bcb4.ttf",
     "index.html": "/excel-sheet-assignment/index.html",
-    "main.03bd496a.css.map": "/excel-sheet-assignment/static/css/main.03bd496a.css.map",
+    "main.a5fb869a.css.map": "/excel-sheet-assignment/static/css/main.a5fb869a.css.map",
     "main.d9d240f0.js.map": "/excel-sheet-assignment/static/js/main.d9d240f0.js.map",
     "488.c945ba52.chunk.js.map": "/excel-sheet-assignment/static/js/488.c945ba52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03bd496a.css",
+    "static/css/main.a5fb869a.css",
     "static/js/main.d9d240f0.js"
   ]
 }
